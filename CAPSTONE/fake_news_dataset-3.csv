@@ -1,0 +1,101 @@
+id,title,text,source,label,label_name
+1,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,Government,1,REAL
+2,An unverified message claims that schools will receive free luxury car...,An unverified message claims that schools will receive free luxury cars for students.,Unknown Blog,0,FAKE
+3,The university released the examination timetable for the upcoming sem...,The university released the examination timetable for the upcoming semester.,University,1,REAL
+4,Government secretly announces that all exams will be cancelled forever...,Government secretly announces that all exams will be cancelled forever.,Social Media,0,FAKE
+5,The district administration opened a new public service center.,The district administration opened a new public service center.,Research Organization,1,REAL
+6,Breaking news: Scientists confirm that drinking only lemon water can c...,Breaking news: Scientists confirm that drinking only lemon water can cure every disease.,Social Media,0,FAKE
+7,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,University,1,REAL
+8,Social media users say every mobile phone will stop working next week.,Social media users say every mobile phone will stop working next week.,Social Media,0,FAKE
+9,Scientists published a study examining changes in local air quality.,Scientists published a study examining changes in local air quality.,University,1,REAL
+10,A misleading message says that ordinary tap water has been officially ...,A misleading message says that ordinary tap water has been officially declared dangerous everywhere.,Unverified Website,0,FAKE
+11,The university released the examination timetable for the upcoming sem...,The university released the examination timetable for the upcoming semester.,Research Organization,1,REAL
+12,A fake report claims that a new law will ban students from using books...,A fake report claims that a new law will ban students from using books.,Forwarded Message,0,FAKE
+13,The education department announced new scholarship guidelines for stud...,The education department announced new scholarship guidelines for students.,University,1,REAL
+14,A fabricated report claims that one food can instantly increase human ...,A fabricated report claims that one food can instantly increase human intelligence.,Forwarded Message,0,FAKE
+15,The health department published updated vaccination information on its...,The health department published updated vaccination information on its website.,University,1,REAL
+16,Social media users say every mobile phone will stop working next week.,Social media users say every mobile phone will stop working next week.,Forwarded Message,0,FAKE
+17,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,Government,1,REAL
+18,A fabricated report claims that one food can instantly increase human ...,A fabricated report claims that one food can instantly increase human intelligence.,Social Media,0,FAKE
+19,The government announced a new initiative to improve rural internet co...,The government announced a new initiative to improve rural internet connectivity.,News Agency,1,REAL
+20,A fake report claims that a new law will ban students from using books...,A fake report claims that a new law will ban students from using books.,Forwarded Message,0,FAKE
+21,The education department announced new scholarship guidelines for stud...,The education department announced new scholarship guidelines for students.,Research Organization,1,REAL
+22,A misleading message says that ordinary tap water has been officially ...,A misleading message says that ordinary tap water has been officially declared dangerous everywhere.,Social Media,0,FAKE
+23,The central bank released its latest economic report on inflation and ...,The central bank released its latest economic report on inflation and growth.,Government,1,REAL
+24,A misleading message says that ordinary tap water has been officially ...,A misleading message says that ordinary tap water has been officially declared dangerous everywhere.,Forwarded Message,0,FAKE
+25,The district administration opened a new public service center.,The district administration opened a new public service center.,News Agency,1,REAL
+26,A fake report claims that a new law will ban students from using books...,A fake report claims that a new law will ban students from using books.,Unknown Blog,0,FAKE
+27,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,Government,1,REAL
+28,Social media users say every mobile phone will stop working next week.,Social media users say every mobile phone will stop working next week.,Forwarded Message,0,FAKE
+29,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,University,1,REAL
+30,Government secretly announces that all exams will be cancelled forever...,Government secretly announces that all exams will be cancelled forever.,Unverified Website,0,FAKE
+31,The health department published updated vaccination information on its...,The health department published updated vaccination information on its website.,Research Organization,1,REAL
+32,A viral rumor says the government will give every citizen a huge cash ...,A viral rumor says the government will give every citizen a huge cash reward tomorrow.,Unknown Blog,0,FAKE
+33,The government announced a new initiative to improve rural internet co...,The government announced a new initiative to improve rural internet connectivity.,News Agency,1,REAL
+34,Social media users say every mobile phone will stop working next week.,Social media users say every mobile phone will stop working next week.,Forwarded Message,0,FAKE
+35,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,University,1,REAL
+36,A misleading message says that ordinary tap water has been officially ...,A misleading message says that ordinary tap water has been officially declared dangerous everywhere.,Unknown Blog,0,FAKE
+37,The city council approved a new public transport improvement plan.,The city council approved a new public transport improvement plan.,Research Organization,1,REAL
+38,A fabricated report claims that one food can instantly increase human ...,A fabricated report claims that one food can instantly increase human intelligence.,Forwarded Message,0,FAKE
+39,Scientists published a study examining changes in local air quality.,Scientists published a study examining changes in local air quality.,University,1,REAL
+40,A viral rumor says the government will give every citizen a huge cash ...,A viral rumor says the government will give every citizen a huge cash reward tomorrow.,Social Media,0,FAKE
+41,The university released the examination timetable for the upcoming sem...,The university released the examination timetable for the upcoming semester.,Government,1,REAL
+42,A viral rumor says the government will give every citizen a huge cash ...,A viral rumor says the government will give every citizen a huge cash reward tomorrow.,Unverified Website,0,FAKE
+43,The health department published updated vaccination information on its...,The health department published updated vaccination information on its website.,Government,1,REAL
+44,Social media users say every mobile phone will stop working next week.,Social media users say every mobile phone will stop working next week.,Forwarded Message,0,FAKE
+45,The university released the examination timetable for the upcoming sem...,The university released the examination timetable for the upcoming semester.,Research Organization,1,REAL
+46,A fabricated report claims that one food can instantly increase human ...,A fabricated report claims that one food can instantly increase human intelligence.,Unverified Website,0,FAKE
+47,The city council approved a new public transport improvement plan.,The city council approved a new public transport improvement plan.,News Agency,1,REAL
+48,A viral post claims that a common household item can make people live ...,A viral post claims that a common household item can make people live for 200 years.,Unknown Blog,0,FAKE
+49,Scientists published a study examining changes in local air quality.,Scientists published a study examining changes in local air quality.,News Agency,1,REAL
+50,A fake report claims that a new law will ban students from using books...,A fake report claims that a new law will ban students from using books.,Unverified Website,0,FAKE
+51,The district administration opened a new public service center.,The district administration opened a new public service center.,Research Organization,1,REAL
+52,A viral rumor says the government will give every citizen a huge cash ...,A viral rumor says the government will give every citizen a huge cash reward tomorrow.,Unknown Blog,0,FAKE
+53,The city council approved a new public transport improvement plan.,The city council approved a new public transport improvement plan.,Research Organization,1,REAL
+54,Government secretly announces that all exams will be cancelled forever...,Government secretly announces that all exams will be cancelled forever.,Social Media,0,FAKE
+55,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,University,1,REAL
+56,A viral post claims that a common household item can make people live ...,A viral post claims that a common household item can make people live for 200 years.,Unverified Website,0,FAKE
+57,The district administration opened a new public service center.,The district administration opened a new public service center.,Government,1,REAL
+58,A fabricated report claims that one food can instantly increase human ...,A fabricated report claims that one food can instantly increase human intelligence.,Unverified Website,0,FAKE
+59,The district administration opened a new public service center.,The district administration opened a new public service center.,Research Organization,1,REAL
+60,A misleading message says that ordinary tap water has been officially ...,A misleading message says that ordinary tap water has been officially declared dangerous everywhere.,Forwarded Message,0,FAKE
+61,Scientists published a study examining changes in local air quality.,Scientists published a study examining changes in local air quality.,Government,1,REAL
+62,Government secretly announces that all exams will be cancelled forever...,Government secretly announces that all exams will be cancelled forever.,Forwarded Message,0,FAKE
+63,The government announced a new initiative to improve rural internet co...,The government announced a new initiative to improve rural internet connectivity.,Government,1,REAL
+64,An unverified message claims that schools will receive free luxury car...,An unverified message claims that schools will receive free luxury cars for students.,Unverified Website,0,FAKE
+65,The city council approved a new public transport improvement plan.,The city council approved a new public transport improvement plan.,Research Organization,1,REAL
+66,Breaking news: Scientists confirm that drinking only lemon water can c...,Breaking news: Scientists confirm that drinking only lemon water can cure every disease.,Forwarded Message,0,FAKE
+67,Scientists published a study examining changes in local air quality.,Scientists published a study examining changes in local air quality.,University,1,REAL
+68,A misleading message says that ordinary tap water has been officially ...,A misleading message says that ordinary tap water has been officially declared dangerous everywhere.,Social Media,0,FAKE
+69,The health department published updated vaccination information on its...,The health department published updated vaccination information on its website.,University,1,REAL
+70,A viral post claims that a common household item can make people live ...,A viral post claims that a common household item can make people live for 200 years.,Forwarded Message,0,FAKE
+71,The city council approved a new public transport improvement plan.,The city council approved a new public transport improvement plan.,Government,1,REAL
+72,A fake report claims that a new law will ban students from using books...,A fake report claims that a new law will ban students from using books.,Forwarded Message,0,FAKE
+73,The railway department announced changes to selected train schedules.,The railway department announced changes to selected train schedules.,Government,1,REAL
+74,Government secretly announces that all exams will be cancelled forever...,Government secretly announces that all exams will be cancelled forever.,Forwarded Message,0,FAKE
+75,The health department published updated vaccination information on its...,The health department published updated vaccination information on its website.,University,1,REAL
+76,Breaking news: Scientists confirm that drinking only lemon water can c...,Breaking news: Scientists confirm that drinking only lemon water can cure every disease.,Unknown Blog,0,FAKE
+77,The district administration opened a new public service center.,The district administration opened a new public service center.,Government,1,REAL
+78,Government secretly announces that all exams will be cancelled forever...,Government secretly announces that all exams will be cancelled forever.,Unverified Website,0,FAKE
+79,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,University,1,REAL
+80,A viral post claims that a common household item can make people live ...,A viral post claims that a common household item can make people live for 200 years.,Unverified Website,0,FAKE
+81,Scientists published a study examining changes in local air quality.,Scientists published a study examining changes in local air quality.,University,1,REAL
+82,An unverified message claims that schools will receive free luxury car...,An unverified message claims that schools will receive free luxury cars for students.,Unverified Website,0,FAKE
+83,The university released the examination timetable for the upcoming sem...,The university released the examination timetable for the upcoming semester.,University,1,REAL
+84,An unverified message claims that schools will receive free luxury car...,An unverified message claims that schools will receive free luxury cars for students.,Unverified Website,0,FAKE
+85,The government announced a new initiative to improve rural internet co...,The government announced a new initiative to improve rural internet connectivity.,Research Organization,1,REAL
+86,A misleading message says that ordinary tap water has been officially ...,A misleading message says that ordinary tap water has been officially declared dangerous everywhere.,Unverified Website,0,FAKE
+87,The weather department issued an advisory about heavy rainfall in seve...,The weather department issued an advisory about heavy rainfall in several districts.,University,1,REAL
+88,Social media users say every mobile phone will stop working next week.,Social media users say every mobile phone will stop working next week.,Social Media,0,FAKE
+89,The government announced a new initiative to improve rural internet co...,The government announced a new initiative to improve rural internet connectivity.,Government,1,REAL
+90,A fake report claims that a new law will ban students from using books...,A fake report claims that a new law will ban students from using books.,Unknown Blog,0,FAKE
+91,The district administration opened a new public service center.,The district administration opened a new public service center.,University,1,REAL
+92,Breaking news: Scientists confirm that drinking only lemon water can c...,Breaking news: Scientists confirm that drinking only lemon water can cure every disease.,Social Media,0,FAKE
+93,The education department announced new scholarship guidelines for stud...,The education department announced new scholarship guidelines for students.,University,1,REAL
+94,Government secretly announces that all exams will be cancelled forever...,Government secretly announces that all exams will be cancelled forever.,Social Media,0,FAKE
+95,The government announced a new initiative to improve rural internet co...,The government announced a new initiative to improve rural internet connectivity.,Government,1,REAL
+96,A misleading message says that ordinary tap water has been officially ...,A misleading message says that ordinary tap water has been officially declared dangerous everywhere.,Unknown Blog,0,FAKE
+97,The health department published updated vaccination information on its...,The health department published updated vaccination information on its website.,Research Organization,1,REAL
+98,Social media users say every mobile phone will stop working next week.,Social media users say every mobile phone will stop working next week.,Unknown Blog,0,FAKE
+99,The district administration opened a new public service center.,The district administration opened a new public service center.,Research Organization,1,REAL
+100,Social media users say every mobile phone will stop working next week.,Social media users say every mobile phone will stop working next week.,Unverified Website,0,FAKE
